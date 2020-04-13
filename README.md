@@ -1,2 +1,2 @@
 # nigeria-states-by-long_lag-cordinated
-Data from google maps for Nigerian states including Abuja FCT. I needed this to plot a map on google data studio
+extracted data from google maps into csv file - longitude, latitude cordinates for Nigerian states
